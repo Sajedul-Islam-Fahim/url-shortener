@@ -1,0 +1,15 @@
+# Dependencies
+url-shortener-api/vendor/
+url-shortener-web/node_modules/
+
+# Environment files
+url-shortener-api/.env
+url-shortener-web/.env
+
+# Laravel specific
+url-shortener-api/storage/logs/*
+url-shortener-api/bootstrap/cache/*
+
+# OS
+.DS_Store
+Thumbs.db
